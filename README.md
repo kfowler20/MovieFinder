@@ -1,3 +1,3 @@
 # Movie Finder
 
-TODO
+TODO: Add details here
